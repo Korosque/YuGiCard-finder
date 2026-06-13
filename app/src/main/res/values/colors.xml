@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="screen_background">#F5F7FB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_soft">#EEF2F7</color>
+    <color name="border">#D7DEE8</color>
+    <color name="action_primary">#334E68</color>
+    <color name="camera_action">#386641</color>
+    <color name="text_primary">#18212F</color>
+    <color name="text_secondary">#4C5A6A</color>
+    <color name="text_muted">#7B8794</color>
+</resources>

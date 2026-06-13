@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YugiCard Finder</string>
+    <string name="app_title">YugiCard Finder</string>
+    <string name="app_subtitle">Consulte cartas de Yu-Gi-Oh! pelo nome e veja os principais dados retornados pela API.</string>
+    <string name="search_hint">Digite o nome da carta, ex.: Dark Magician</string>
+    <string name="search_button">Consultar carta</string>
+    <string name="searching_button">Consultando...</string>
+    <string name="initial_message">Informe o nome de uma carta para iniciar a consulta.</string>
+    <string name="empty_search_error">Digite o nome de uma carta antes de consultar.</string>
+    <string name="card_not_found">Nenhuma carta foi encontrada com esse nome. Tente outro termo, como Blue-Eyes ou Kuriboh.</string>
+    <string name="request_error">Não foi possível consultar a API agora. Verifique sua conexão e tente novamente.</string>
+    <string name="unknown_value">Não informado</string>
+    <string name="not_applicable">N/A</string>
+    <string name="card_type_format">Tipo: %1$s</string>
+    <string name="card_stats_format">ATK: %1$s | DEF: %2$s</string>
+    <string name="card_extra_format">Level/Rank: %1$s | Raça: %2$s | Atributo: %3$s</string>
+    <string name="description_label">Descrição</string>
+    <string name="card_image_description">Imagem da carta consultada</string>
+    <string name="camera_title">Foto da carta física</string>
+    <string name="camera_permission_pending">Permissão de câmera ainda não concedida.</string>
+    <string name="camera_permission_granted">Permissão de câmera concedida.</string>
+    <string name="camera_button">Fotografar carta</string>
+    <string name="camera_permission_denied">Permissão de câmera negada. Sem ela, não é possível fotografar uma carta física.</string>
+    <string name="camera_unavailable">Nenhum aplicativo de câmera foi encontrado neste dispositivo.</string>
+    <string name="camera_photo_ready">Foto capturada. Você pode usá-la como referência visual da carta física.</string>
+    <string name="captured_card_image_description">Foto tirada da carta física</string>
+</resources>
