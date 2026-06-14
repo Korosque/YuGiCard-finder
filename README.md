@@ -43,13 +43,13 @@ Também utiliza a permissão CAMERA para permitir que o usuário fotografe uma c
 ## Prints do aplicativo
 
 ### Tela inicial
-<img src="a64632f7-b4b2-4b93-b5dd-0a7367a45f31.jpeg" alt="Tela inicial do aplicativo YugiCard Finder" width="260">
+<img src="screenshots/tela-inicial.jpeg" alt="Tela inicial do aplicativo YugiCard Finder" width="260">
 
 ### Solicitação da permissão de câmera
-<img src="cfe72bb2-c33d-4797-a4c4-2a5b5110a4c1.jpeg" alt="Solicitação da permissão de câmera no Android" width="260">
+<img src="screenshots/permissao-camera.jpeg" alt="Solicitação da permissão de câmera no Android" width="260">
 
 ### Resultado da consulta
-<img src="8de7cd7f-2d4a-4806-96c3-44962d5ad241.jpeg" alt="Resultado da consulta da carta Dark Magician" width="260">
+<img src="screenshots/resultado-consulta.jpeg" alt="Resultado da consulta da carta Dark Magician" width="260">
 
 ## Autores
 1. João Pedro de Paula Gomes
